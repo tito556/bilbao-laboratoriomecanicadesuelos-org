@@ -1,0 +1,20 @@
+{
+  "name": "Bilbao",
+  "short_name": "Bilbao",
+  "start_url": "/",
+  "display": "standalone",
+  "theme_color": "#370617",
+  "background_color": "#FFFFFF",
+  "icons": [
+    {
+      "src": "/img/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ],
+  "lang": "es",
+  "orientation": "any",
+  "scope": "/",
+  "description": "Servicios geotécnicos profesionales en Bilbao, Spain. Estudios de suelo, ensayos y consultoría técnica.",
+  "id": "/bilbao-3588"
+}
